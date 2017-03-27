@@ -46,7 +46,7 @@ String[] permissions = permissionList.toArray(new String[permissionList.size()])
  baiduMap.setMyLocationData(locationData);
  
  
- 
+ 12.开发指南：http://lbsyun.baidu.com
  
  
  
